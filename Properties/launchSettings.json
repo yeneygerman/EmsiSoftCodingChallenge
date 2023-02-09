@@ -1,0 +1,13 @@
+{
+  "profiles": {
+    "EmsiSoft": {
+      "commandName": "Project",
+      "launchBrowser": true,
+      "launchUrl": "swagger",
+      "environmentVariables": {
+        "ASPNETCORE_ENVIRONMENT": "Development"
+      },
+      "applicationUrl": "https://localhost:7083;http://localhost:5189"
+    }
+  }
+}
